@@ -98,7 +98,7 @@ a:hover {
 
 
 .about{
-  background-color: #000;
+  background-color: #cae0e2;
 }
 
 
@@ -253,7 +253,7 @@ a:hover {
   font-size: 12px;
 }
 .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
-  color: #009ee0; /*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*/
+  color: #009ee0;
 }
 .navbar .dropdown:hover > ul {
   opacity: 1;
@@ -567,7 +567,7 @@ a:hover {
   Call-to-action Styling
   ================================================== */
 .cta {
-  background-color: #f80000;
+  background-color: #006494;
   padding: 25px 0;
 }
 .cta h2 {
