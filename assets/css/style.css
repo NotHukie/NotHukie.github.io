@@ -519,11 +519,11 @@ a:hover {
   Features Styling
   ================================================== */
 .features {
-  background-color: black;
+  background-color: #cae0e2;
   padding-bottom: 45px;
 }
 .features h2 {
-  color: #f80000;
+  color: #ffffff;
 }
 
 .feature-col {
@@ -531,19 +531,19 @@ a:hover {
   padding-bottom: 45px;
 }
 .feature-col > div > div {
-  background-color: black;
+  background-color: #cae0e2;
   display: table-cell;
   vertical-align: middle;
 }
 .feature-col > div > div:last-child {
-  background-color: black;
+  background-color: #cae0e2;
   padding-left: 20px;
 }
 .feature-col .feature-icon {
   width: 70px;
   height: 70px;
   margin-bottom: 15px;
-  background: #f80000;
+  background: #006494;
   color: white;
   font-size: 24px;
   text-align: center;
@@ -554,7 +554,7 @@ a:hover {
   line-height: 0;
 }
 .feature-col h3 {
-  color: #f80000;
+  color: #000000;
 }
 .feature-col p {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
@@ -590,11 +590,11 @@ a:hover {
   Portfolio Styling
   ================================================== */
 .portfolio {
-  background-color: black;
+  background-color: #cae0e2;
   padding-bottom: 0;
 }
 .portfolio h2 {
-  color: #f80000;
+  color: #247BD0;
   margin-bottom: 25px;
 }
 
